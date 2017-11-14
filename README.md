@@ -4,7 +4,7 @@ A local captcha solver that can send the token to a Discord webhook.
 # How to use
 1. Clone this repository/download the captcha.php file.
 2. Make sure to have [WAMP](http://www.wampserver.com/en/) or [XXAMP](https://www.apachefriends.org/index.html) or equivalent setup.
-3. Copy and paste the captcha.php file into your server.
+3. Copy and paste the [captcha.php](captcha.php) file into your server.
 4. Go to the URL in a web browser to check that it's working.
 
 # Configuration
